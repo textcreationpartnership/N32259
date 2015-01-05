@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <body>
          <div type="lottery">
-            <pb facs="tcp:042500_0000_101C57BE54A67BD8"/>
-            <pb facs="tcp:042500_0001_101C57B1AA940E10"/>
+            <pb facs="unknown:042500_0000_101C57BE54A67BD8"/>
+            <pb facs="unknown:042500_0001_101C57B1AA940E10"/>
             <head>Say-Brook Barr LOTTERY,</head>
             <p>To raise the Sum of <hi>Five Hundred and Thir<g ref="char:EOLhyphen"/>ty Seven Pounds,</hi> Lawful Money, to be laid out in fixing Buoys and other Marks on and near the Mouth of Connecticut River, which will render the Navigation into and out of said Ri<g ref="char:EOLhyphen"/>ver both safe and easy.</p>
             <p>
